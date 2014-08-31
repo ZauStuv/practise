@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+
+
+int double(int x);
+
+int main(int argc, char *argv[])
+{
+	int a = 5;
+	a = double(a);
+	
+	printf("%d\n", a);
+
+	return 0;
+}

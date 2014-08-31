@@ -1,0 +1,6 @@
+int double(int x)
+{
+   x = x * 2;
+   return x;
+}
+
